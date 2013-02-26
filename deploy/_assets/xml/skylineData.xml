@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skylineData>
+	<name>CCI Initiatives</name>
+	<!-- dimensions, distances in meters -->
+	<cities>
+		<city name="New York City">
+			<skyline path="skyline_nyc0.jpg"></skyline>
+			<environment path=""></environment>
+			<imageDir name="nyc" />
+			<project>
+				<title><![CDATA[Empire State Building]]></title>
+				<description><![CDATA[retrofit description blaaah blaaah blaaah]]></description>
+				<image path="IMG_1674.jpg"  />
+			</project>
+			<project>
+				<title><![CDATA[Building in London]]></title>
+				<description><![CDATA[retrofit blaaah blaaah blaaah]]></description>
+				<image path="IMG_1675.jpg"  />
+			</project>
+			<project>
+				<title><![CDATA[Building in London]]></title>
+				<description><![CDATA[retrofit blaaah blaaah blaaah]]></description>
+				<image path="IMG_1676.jpg"  />
+				<!--
+				<contractor><![CDATA[Starrett Brothers & Eken]]></contractor>
+				<construction><![CDATA[commenced 17 March, 1930]]></construction>
+				<cost><![CDATA[40948900]]></cost>
+				<site_area><![CDATA[7240]]></site_area>
+				<distance_ew><![CDATA[129]]></distance_ew>
+				<distance_ns><![CDATA[56.9]]></distance_ns>
+				<depth_foundation><![CDATA[16.7]]></depth_foundation>
+				<depth_basement><![CDATA[10.6]]></depth_basement>
+				<windows><![CDATA[6500]]></windows>
+				<elevation_lobby><![CDATA[14.3]]></elevation_lobby>
+				<height><![CDATA[443.2]]></height>
+				<emissions><![CDATA[]]></emissions>
+				-->
+			</project>
+		</city>
+	</cities>
+</skylineData>

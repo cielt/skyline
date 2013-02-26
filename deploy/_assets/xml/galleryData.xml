@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<galleryData>
+	<name>PhotoGalleryDemo</name>
+	<galleries>
+		<gallery title="Mathews Random Photos">
+			<item path="mbr_061001_1097.jpg">
+				<title><![CDATA[Creepy Robot Head]]></title>
+				<description><![CDATA[Blaah]]></description>
+			</item>
+			<item path="mbr_061001_1123.jpg">
+				<title><![CDATA[Cute Robot]]></title>
+				<description><![CDATA[Blaah]]></description>
+			</item>
+			<item path="mbr_070601_0597.jpg">
+				<title><![CDATA[Go Mets!]]></title>
+				<description><![CDATA[Blaah]]></description>
+			</item>
+			<item path="mbr_070824_7665.jpg">
+				<title><![CDATA[Welcome to Ireland]]></title>
+				<description><![CDATA[Blaah]]></description>
+			</item>
+			<item path="mbr_070826_8186_HDR2.jpg">
+				<title><![CDATA[On the Farm]]></title>
+				<description><![CDATA[Blaah]]></description>
+			</item>
+		</gallery>
+	</galleries>
+</galleryData>

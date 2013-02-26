@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skylineData>
+	<name>CCI Initiatives</name>
+	<!-- dimensions, distances in meters -->
+	<cities>
+<!-- NEW YORK CITY -->		
+		<city name="New York City">
+			<skyline path="skyline900_nyc.jpg"></skyline>
+			<environment path="mountain_bluebird_84.jpg"></environment>
+			<imageDir name="nyc" />
+			<cityPosition posX="91" posY="49" />
+			<projects>
+				<project>
+					<title><![CDATA[Empire State Building Retrofit]]></title>
+					<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+					<image path="holder_empire_state.jpg"  />
+					<navPosition posX="440" posY="20" />
+					<navSize nodeW="36" nodeH="148" />
+					<actions>
+						<action url="http://www.clintonfoundation.org/what-we-do/clinton-climate-initiative/our-approach/cities/building-retrofit" type="learn" label="learn more" />
+						<action url="https://re.clintonfoundation.org/SSLPage.aspx?pid=3742" type="support" label="support this project" />
+					</actions>
+				</project>
+				<project>
+					<title><![CDATA[Chrysler Building Lighting Upgrade]]></title>
+					<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+					<image path="holder_chrysler.jpg"  />
+					<navPosition posX="80" posY="55" />
+					<navSize nodeW="45" nodeH="108" />
+					<actions>
+						<action url="http://www.clintonfoundation.org/what-we-do/clinton-climate-initiative/our-approach/cities/building-retrofit" type="learn" label="learn more" />
+					</actions>
+				</project>
+				<project>
+					<title><![CDATA[MetLife Building Radiant Floor Installation]]></title>
+					<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+					<image path="holder_metlife.jpg"  />
+					<navPosition posX="88" posY="88" />
+					<navSize nodeW="76" nodeH="108" />
+					<actions>
+						<action url="http://www.clintonfoundation.org/what-we-do/clinton-climate-initiative/our-approach/cities/building-retrofit" type="learn" label="learn more" />
+					</actions>
+				</project>
+			</projects>
+		</city>
+
+<!-- LONDON -->
+		<city name="London">
+			<skyline path="skyline900_london.jpg"></skyline>
+			<environment path="mountain_bluebird_84.jpg"></environment>
+			<imageDir name="london" />
+			<cityPosition posX="164" posY="38" />
+			<projects>
+				<project>
+					<title><![CDATA[Empress State Building Retrofit]]></title>
+					<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+					<image path="holder_empress_state.jpg"  />
+					<navPosition posX="370" posY="40" />
+					<navSize nodeW="36" nodeH="128" />
+					<actions>
+						<action url="http://www.clintonfoundation.org/what-we-do/clinton-climate-initiative/our-approach/cities/building-retrofit" type="learn" label="learn more" />
+					</actions>
+				</project>
+				<project>
+					<title><![CDATA[Shakespeare Tower Radiant Floor Installation]]></title>
+					<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+					<image path="holder_shakespeare.jpg"  />
+					<navPosition posX="76" posY="108" />
+					<navSize nodeW="45" nodeH="48" />
+					<actions>
+						<action url="http://www.clintonfoundation.org/what-we-do/clinton-climate-initiative/our-approach/cities/building-retrofit" type="learn" label="learn more" />
+					</actions>
+				</project>
+					<project>
+						<title><![CDATA[Wembley Stadium Lighting Upgrade]]></title>
+						<description><![CDATA[<body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt massa. Vivamus sed massa metus. Suspendisse potenti. Aenean blandit aliquam magna sed pretium. Phasellus non dapibus sapien. Proin purus ante, lobortis sed hendrerit non, laoreet eu tellus. Maecenas in ligula a massa interdum vulputate.</body>]]></description>
+						<image path="holder_wembley.jpg"  />
+						<navPosition posX="196" posY="88" />
+						<navSize nodeW="68" nodeH="64" />
+						<actions>
+							<action url="https://re.clintonfoundation.org/SSLPage.aspx?pid=3742" type="support" label="support this project" />
+						</actions>
+					</project>
+			</projects>
+		</city>	
+	</cities>
+</skylineData>
